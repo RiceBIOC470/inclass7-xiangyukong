@@ -1,0 +1,490 @@
+LOCUS       NC_000013               8451 bp    DNA     linear   CON 06-JUN-2016
+DEFINITION  Homo sapiens chromosome 13, GRCh38.p7 Primary Assembly.
+ACCESSION   NC_000013 REGION: complement(27960918..27969368) GPC_000001305
+VERSION     NC_000013.11  GI:568815585
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.33
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 8451)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   2  (bases 1 to 8451)
+  AUTHORS   Dunham,A., Matthews,L.H., Burton,J., Ashurst,J.L., Howe,K.L.,
+            Ashcroft,K.J., Beare,D.M., Burford,D.C., Hunt,S.E.,
+            Griffiths-Jones,S., Jones,M.C., Keenan,S.J., Oliver,K., Scott,C.E.,
+            Ainscough,R., Almeida,J.P., Ambrose,K.D., Andrews,D.T.,
+            Ashwell,R.I., Babbage,A.K., Bagguley,C.L., Bailey,J., Bannerjee,R.,
+            Barlow,K.F., Bates,K., Beasley,H., Bird,C.P., Bray-Allen,S.,
+            Brown,A.J., Brown,J.Y., Burrill,W., Carder,C., Carter,N.P.,
+            Chapman,J.C., Clamp,M.E., Clark,S.Y., Clarke,G., Clee,C.M.,
+            Clegg,S.C., Cobley,V., Collins,J.E., Corby,N., Coville,G.J.,
+            Deloukas,P., Dhami,P., Dunham,I., Dunn,M., Earthrowl,M.E.,
+            Ellington,A.G., Faulkner,L., Frankish,A.G., Frankland,J.,
+            French,L., Garner,P., Garnett,J., Gilbert,J.G., Gilson,C.J.,
+            Ghori,J., Grafham,D.V., Gribble,S.M., Griffiths,C., Hall,R.E.,
+            Hammond,S., Harley,J.L., Hart,E.A., Heath,P.D., Howden,P.J.,
+            Huckle,E.J., Hunt,P.J., Hunt,A.R., Johnson,C., Johnson,D., Kay,M.,
+            Kimberley,A.M., King,A., Laird,G.K., Langford,C.J., Lawlor,S.,
+            Leongamornlert,D.A., Lloyd,D.M., Lloyd,C., Loveland,J.E.,
+            Lovell,J., Martin,S., Mashreghi-Mohammadi,M., McLaren,S.J.,
+            McMurray,A., Milne,S., Moore,M.J., Nickerson,T., Palmer,S.A.,
+            Pearce,A.V., Peck,A.I., Pelan,S., Phillimore,B., Porter,K.M.,
+            Rice,C.M., Searle,S., Sehra,H.K., Shownkeen,R., Skuce,C.D.,
+            Smith,M., Steward,C.A., Sycamore,N., Tester,J., Thomas,D.W.,
+            Tracey,A., Tromans,A., Tubby,B., Wall,M., Wallis,J.M., West,A.P.,
+            Whitehead,S.L., Willey,D.L., Wilming,L., Wray,P.W., Wright,M.W.,
+            Young,L., Coulson,A., Durbin,R., Hubbard,T., Sulston,J.E., Beck,S.,
+            Bentley,D.R., Rogers,J. and Ross,M.T.
+  TITLE     The DNA sequence and analysis of human chromosome 13
+  JOURNAL   Nature 428 (6982), 522-528 (2004)
+   PUBMED   15057823
+REFERENCE   3  (bases 1 to 8451)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,Y.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowki,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S., Chen,Y.J.
+            and Szustakowki,J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Jun 7;411(6838):720. Szustakowki, J [corrected
+            to Szustakowski, J]]
+REFERENCE   4  (sites)
+  AUTHORS   Lowe,T.M. and Eddy,S.R.
+  TITLE     tRNAscan-SE: a program for improved detection of transfer RNA genes
+            in genomic sequence
+  JOURNAL   Nucleic Acids Res. 25 (5), 955-964 (1997)
+   PUBMED   9023104
+  REMARK    This is the methods paper for tRNAscan-SE.
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000675.2.
+            On Feb 3, 2014 this sequence version replaced gi:224589804.
+            Assembly Name: GRCh38.p7 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            http://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Homo sapiens Annotation Release 108
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..8451
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+     gene            1..8451
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="caudal type homeobox 2; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq,Gnomon."
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     mRNA            join(1..903,4354..4499,6000..7301)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /product="caudal type homeobox 2"
+                     /inference="similar to RNA sequence, mRNA (same
+                     species):RefSeq:NM_001265.4"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="The RefSeq transcript has 1 substitution compared
+                     to this genomic sequence; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /transcript_id="NM_001265.4"
+                     /db_xref="GI:372624391"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     mRNA            join(32..903,4330..4499,6000..8451)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /product="caudal type homeobox 2, transcript variant X1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 mRNA, 24 ESTs, 1 Protein, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 13 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_011534875.2"
+                     /db_xref="GI:1034583673"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     mRNA            join(32..903,4354..4495,6000..6230)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /product="caudal type homeobox 2, transcript variant X3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 mRNA, 6 ESTs, 1 Protein, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 30 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_011534877.2"
+                     /db_xref="GI:1034583675"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     mRNA            join(32..903,4330..4495,6000..6230)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /product="caudal type homeobox 2, transcript variant X2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 4 ESTs, and 100% coverage of the
+                     annotated genomic feature by RNAseq alignments, including
+                     13 samples with support for all annotated introns"
+                     /transcript_id="XM_011534876.2"
+                     /db_xref="GI:1034583674"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     CDS             join(363..903,4354..4499,6000..6254)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /inference="similar to AA sequence (same
+                     species):RefSeq:NP_001256.3"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="The RefSeq protein has 1 substitution compared to
+                     this genomic sequence; Derived by automated computational
+                     analysis using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="homeobox protein CDX-2"
+                     /protein_id="NP_001256.3"
+                     /db_xref="GI:372624392"
+                     /db_xref="CCDS:CCDS9328.1"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+                     /translation="MYVSYLLDKDVSMYPSSVRHSGGLNLAPQNFVSPPQYPDYGGYH
+                     VAAAAAAAANLDSAQSPGPSWPAAYGAPLREDWNGYAPGGAAAAANAVAHGLNGGSPA
+                     AAMGYSSPADYHPHHHPHHHPHHPAAAPSCASGLLQTLNPGPPGPAATAAAEQLSPGG
+                     QRRNLCEWMRKPAQQSLGSQVKTRTKDKYRVVYTDHQRLELEKEFHYSRYITIRRKAE
+                     LAATLGLSERQVKIWFQNRRAKERKINKKKLQQQQQQQPPQPPPPPPQPPQPQPGPLR
+                     SVPEPLSPVSSLQASVSGSVPGVLGPTGGVLNPTVTQ"
+     CDS             join(363..903,4330..4499,6000..6254)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="homeobox protein CDX-2 isoform X1"
+                     /protein_id="XP_011533177.1"
+                     /db_xref="GI:767977162"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+                     /translation="MYVSYLLDKDVSMYPSSVRHSGGLNLAPQNFVSPPQYPDYGGYH
+                     VAAAAAAAANLDSAQSPGPSWPAAYGAPLREDWNGYAPGGAAAAANAVAHGLNGGSPA
+                     AAMGYSSPADYHPHHHPHHHPHHPAAAPSCASGLLQTLNPGPPGPAATAAAEQLSPGG
+                     QRRNLCEWMRKPAQQSLGSQALTSPSSTVKTRTKDKYRVVYTDHQRLELEKEFHYSRY
+                     ITIRRKAELAATLGLSERQVKIWFQNRRAKERKINKKKLQQQQQQQPPQPPPPPPQPP
+                     QPQPGPLRSVPEPLSPVSSLQASVPGSVPGVLGPTGGVLNPTVTQ"
+     CDS             join(363..903,4354..4495,6000..6138)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="homeobox protein CDX-2 isoform X3"
+                     /protein_id="XP_011533179.1"
+                     /db_xref="GI:767977166"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+                     /translation="MYVSYLLDKDVSMYPSSVRHSGGLNLAPQNFVSPPQYPDYGGYH
+                     VAAAAAAAANLDSAQSPGPSWPAAYGAPLREDWNGYAPGGAAAAANAVAHGLNGGSPA
+                     AAMGYSSPADYHPHHHPHHHPHHPAAAPSCASGLLQTLNPGPPGPAATAAAEQLSPGG
+                     QRRNLCEWMRKPAQQSLGSQVKTRTKDKYRVVYTDHQRLELEKEFHYSRYITIRRKAE
+                     LAATLGLSERLKSGFRTAEQRRGKSTRRSCSSNSSSSHHSRLRRHHSLPSLSQVL"
+     CDS             join(363..903,4330..4495,6000..6138)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="homeobox protein CDX-2 isoform X2"
+                     /protein_id="XP_011533178.1"
+                     /db_xref="GI:767977164"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+                     /translation="MYVSYLLDKDVSMYPSSVRHSGGLNLAPQNFVSPPQYPDYGGYH
+                     VAAAAAAAANLDSAQSPGPSWPAAYGAPLREDWNGYAPGGAAAAANAVAHGLNGGSPA
+                     AAMGYSSPADYHPHHHPHHHPHHPAAAPSCASGLLQTLNPGPPGPAATAAAEQLSPGG
+                     QRRNLCEWMRKPAQQSLGSQALTSPSSTVKTRTKDKYRVVYTDHQRLELEKEFHYSRY
+                     ITIRRKAELAATLGLSERLKSGFRTAEQRRGKSTRRSCSSNSSSSHHSRLRRHHSLPS
+                     LSQVL"
+     mRNA            join(1079..2112,4330..4499,6000..8451)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /product="caudal type homeobox 2, transcript variant X4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 mRNA, 20 ESTs, 1 Protein, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 5 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_011534878.2"
+                     /db_xref="GI:1034583676"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     mRNA            join(1090..2112,4354..4499,6000..8451)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /product="caudal type homeobox 2, transcript variant X5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 mRNA, 21 ESTs, 1 Protein, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 15 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_011534879.2"
+                     /db_xref="GI:1034583677"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+     CDS             join(1923..2112,4354..4499,6000..6254)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="homeobox protein CDX-2 isoform X5"
+                     /protein_id="XP_011533181.1"
+                     /db_xref="GI:767977170"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+                     /translation="MPQLGRHAGYGHFAEVYSQLQLYKSKRPLGAVSGHRFLRHCAHA
+                     RESPGGNAADRGEGHRSASVKTRTKDKYRVVYTDHQRLELEKEFHYSRYITIRRKAEL
+                     AATLGLSERQVKIWFQNRRAKERKINKKKLQQQQQQQPPQPPPPPPQPPQPQPGPLRS
+                     VPEPLSPVSSLQASVPGSVPGVLGPTGGVLNPTVTQ"
+     CDS             join(1923..2112,4330..4499,6000..6254)
+                     /gene="CDX2"
+                     /gene_synonym="CDX-3; CDX2/AS; CDX3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="homeobox protein CDX-2 isoform X4"
+                     /protein_id="XP_011533180.1"
+                     /db_xref="GI:767977168"
+                     /db_xref="GeneID:1045"
+                     /db_xref="HGNC:HGNC:1806"
+                     /db_xref="MIM:600297"
+                     /translation="MPQLGRHAGYGHFAEVYSQLQLYKSKRPLGAVSGHRFLRHCAHA
+                     RESPGGNAADRGEGHRSASALTSPSSTVKTRTKDKYRVVYTDHQRLELEKEFHYSRYI
+                     TIRRKAELAATLGLSERQVKIWFQNRRAKERKINKKKLQQQQQQQPPQPPPPPPQPPQ
+                     PQPGPLRSVPEPLSPVSSLQASVPGSVPGVLGPTGGVLNPTVTQ"
+ORIGIN      
+        1 ctccaaccat tggtgtctgt gtcattacta atagagtctt gtaaacactc gttaatcacg
+       61 gaaggccgcc ggcctggggc tccgcacgcc agcctgtggc gggtcttccc cgcctctgca
+      121 gcctagtggg aaggaggtgg gaggaaagaa ggaagaaagg gagggaggga ggaggcaggc
+      181 cagagggagg gaccgcctcg gaggcagaag agccgcgagg agccagcgga gcaccgcggg
+      241 ctggggcgca gccacccgcc gctcctcgag tcccctcgcc cctttccctt cgtgcccccc
+      301 ggcagcctcc agcgtcggtc cccaggcagc atggtgaggt ctgctcccgg accctcgcca
+      361 ccatgtacgt gagctacctc ctggacaagg acgtgagcat gtaccctagc tccgtgcgcc
+      421 actctggcgg cctcaacctg gcgccgcaga acttcgtcag ccccccgcag tacccggact
+      481 acggcggtta ccacgtggcg gccgcagctg cagcggcagc gaacttggac agcgcgcagt
+      541 ccccggggcc atcctggccg gcagcgtatg gcgccccact ccgggaggac tggaatggct
+      601 acgcgcccgg aggcgccgcg gccgccgcca acgccgtggc tcacggcctc aacggtggct
+      661 ccccggccgc agccatgggc tacagcagcc ccgcagacta ccatccgcac caccacccgc
+      721 atcaccaccc gcaccacccg gccgccgcgc cttcctgcgc ttctgggctg ctgcaaacgc
+      781 tcaaccccgg ccctcctggg cccgccgcca ccgctgccgc cgagcagctg tctcccggcg
+      841 gccagcggcg gaacctgtgc gagtggatgc ggaagccggc gcagcagtcc ctcggcagcc
+      901 aaggtaagca gaggctgcgc cccttcggag ggtgcttggg aaggcgcggg tcgagccagt
+      961 ggctgctgcg cgtcgcgcgt ccagtgcgca caggggcgtc ccgggctgtc tgggagctcg
+     1021 gcgccaggag gggcacggcc cggagacaaa ttcgggggcc tctggcccgt cggggcttct
+     1081 ctgacctact gagcctggga gtgaatattc tgagtctcaa caccgtgttc aggcgtcctc
+     1141 tttccaagag ctcctcattc gcaaccccgg gacaccttcg ggaagctccg gggaatgtcg
+     1201 gcgtgagcac tgctggacgc cggcagaatc gcgtcctccg gcacttgctg cggcatgcat
+     1261 tccttgcgtg gctcctggcc gccgaggaga gagggaggct cgaaccttct tgggctaggt
+     1321 ctaggccatt tatctccgct ctctctttcc ccatctgagc catctaagaa gagaagtgac
+     1381 ctgggggggt cggaggatgg ctaggctgtg tgtgggaccg ggtttggcca ctcgggccaa
+     1441 ttcaaggtac agcgagcagg cagaccaggg agagctgctg tcgctgggaa gaaggtgcta
+     1501 gccccagctg ctaaggcgac gggggcgcgc cccgtctctg aacctctgac ctgtgaaggg
+     1561 gtcatttcaa gcaaaagctg gaaggctagg ggcaagaagc ctaggggcag gcgtctgcgg
+     1621 agagagcagg gagacgggga ggaaaccctg gtgggaatta agccgccgct ccaggtaggg
+     1681 gtcatttctc ccaaagcttc ctttcaaggg tgtcagggat gtctgtgagt gtgtgtgtgc
+     1741 aactgaaaaa gatcctaggt ttgccggact gtggggctca ttgactctgg gtctgcccct
+     1801 tctggtgttc gagtgtgcct agaggtggca aggaagtgcg gtggggagag tcctagttga
+     1861 gtgccccttt taaagtcttt ccccagccct cagcgcttcc gcttttcttg cttcgctcct
+     1921 tgatgcccca attgggcagg cacgctggtt atgggcactt tgcagaagtt tatagccaat
+     1981 tacaactgta taaatcaaag cgccctttgg gggctgtctc tgggcatcgg tttctgcgtc
+     2041 actgtgcaca tgctagggag agtcctggtg ggaatgccgc cgaccgggga gaaggccaca
+     2101 gatcagcctc gggtgagcct cagagctttg gcttggtccc ttctcctaga ggaggcgcct
+     2161 ttctcctagc aggggctccc agatcctggc tcccaaagac ccactttcta cagcccctgt
+     2221 ctggggcgcg gttggcgggg gtggcgcacg ccctaaggaa gacctttgcg tgtcccggga
+     2281 gagcggccgc ggggtgaggg ccgggaaggg ggcgggaggg aagccgccag agcccaggcc
+     2341 gcggggtcag cagatgagag gccgctgtga agtcctgcgc cgaggtggca aggccgcagt
+     2401 cggcgccggg tgcccttgtg atgttaatgt ggggtggccg cagcccgcgg gccggagccg
+     2461 ggctcctctg cggagcgtca tctgtcaagg tgtgggggtg gaggggggga cgcggcctgg
+     2521 cttgctttga tatacacctt cccagccctg ccattgtctc ttttagggcc cggaaagagg
+     2581 gtggtgactt tcgcagtcaa taatgaattc tgacaagtcc ctctcatccc tcccctccat
+     2641 agccccgctc ctaggttccc agggggtgtg gggcgcctcc aaggcccttg gggcatgggt
+     2701 cgaagagcgc tcagggtctg gtcatcgcgt tgcccggcac gtccgggaca ctgaaggggc
+     2761 agcacccgag caagggtcgc tccgagacac ttccaggcga gtctccctcc cggggtgttc
+     2821 ggctgaggga actgccctgc gcctcagctc cggaggtgtc ctctgtggct ccagccaggc
+     2881 tccggtgcca accccgcctg atactatctg cgtgacccgg tctgattctc catttcctca
+     2941 tctgtaaaaa ggggcgagta ccaatggcag cctggagtgg gtttgaggcg gtcacgcgtg
+     3001 tccgagcgtc caccgcggag aaagtcgcgt tagttccctt tactttcata gcaggcgcgg
+     3061 ggtcggggcc gcagccccat tcaaatgcgc ctgcagggtc gtgtttatgt taatgcgcct
+     3121 ggcggggagg gggatgaaag ccggggccgc catttgctca gtagtggtaa ttcaaacaga
+     3181 atgtggttgt tattaaggca ttgaaagggc ttttctttga taagatcgcc ttgtcctgca
+     3241 ttgtttgcgg ctgtgttggc ctttcagcgg ctcgggggag ctccctctga tcaggcctgt
+     3301 atcttcccag gacgcttttg ttgtggtttg caaagggttt tacctgaaca aagtcagcct
+     3361 gcggggcatt aaacacctcc aggcaactcc caggcccttc agatctttct gtgggattgg
+     3421 gcactgggcg attgaacctg ttcagctgca agaagaccca aaagtgggac ggagccagag
+     3481 agaacagctt ctggccaggg ctctgccaag ggctgagcca agacagacct ggtggagacg
+     3541 ccaggctcgg gcctgctcca acattgtgga cactatttgt caaggccctt cagtaaaaca
+     3601 atcaatctgg gatttaatat gttgactcaa tccaatgagc atagatcact ggtcaggata
+     3661 actctggccg gatttgcagc aggaataaat ggaggatcaa aaaagaaaaa gtaccaaacg
+     3721 ccaaacctgg tctgggcagg tataaagtgt ccccagcagg aggggttttc tgcctgttcc
+     3781 ctcggccaga gcccagctca gaattccacc tgatgggcct ggtgtgtctg ggggatgatt
+     3841 ctggcgactt gtcagctcct gagccccgct ttccacttgt agtaaagcaa agtagtaacc
+     3901 cccacacccc ctctacaaca tgtgcccaca atgacagctg ttttcggggt gggcttccat
+     3961 ctctggtagg cctggaaatc tggatgcttc caggatcccg gccacttcac cctgccccct
+     4021 ttcccttggt gtcaaatata tgccagtact gtatttggtt taccgaaagg gtggttacat
+     4081 tctgctgtct tctgtgtgaa tgaggttttc actttcctta atttttaaaa accacttaat
+     4141 accaaggtta gtttagttgc ctccactagc ctcataccct ccccccacag gaccctctgg
+     4201 ggggtcttgt cagacttggc aggaaccagc caaacccggg ccccccaggg tggtggagga
+     4261 agagaaatgt ccctgggtta gggaggtttg tcattaccca tgactgatgg gctgccttgc
+     4321 agttctcagc cctcacttct ccttcctcca cagtgaaaac caggacgaaa gacaaatatc
+     4381 gagtggtgta cacggaccac cagcggctgg agctggagaa ggagtttcac tacagtcgct
+     4441 acatcaccat ccggaggaaa gccgagctag ccgccacgct ggggctctct gagaggcagg
+     4501 tggggaccgc ctagctccct ccgggcgggc cactgcctgg cagaggacca tgagagttag
+     4561 aaaatctggc tgcaggggcc atctaaatct gtggagagac tgaagcagga ggatgcaagc
+     4621 attcgtcttt ggagtccttt tttttttttt tttttttttt aaacagagat ggggtcttgc
+     4681 tttgtggccc aggctggagt gtagtggcac aatcatagct cactgcagcc ctgacttcct
+     4741 gagctgaagg gatcctcctg cctcagtcac ctgagtagct tggactacag gctcgagcca
+     4801 ccatgactgg ctaatgttta aattttttgc agagatggtc tcactgtctt acccaggttg
+     4861 gtctcaaact ccaaatgctc ctcctgtctt ggactcctaa agtgctgaga ttaccggtgt
+     4921 gaaccaccat gcctggcctg gagtacatgc ccccccaccc gccaccgtcg aaacgcagtt
+     4981 tcactcttgt tgtgcaggct gaagtgcaat ggcgcggtct cagctcactg caacctctgc
+     5041 ctcccgggtt caagcgattc tcctgcttca gcctcccaaa tagctgggac tacaggcatg
+     5101 tgccaccacg cccggctaat tttgtatttt tagtagaaat gcggtttctc catgttagtc
+     5161 aggctagtct cgaactcctg gcctcaggtg atccacccgc ctcggcctcc caaagtgctg
+     5221 agattacagg tgtgagccac tgtgcctggc cctggagtac ttttttaaaa agcctccttc
+     5281 tacctttagt cctctttttt tgatgttgtt gattttttct gtctctctct tttgagggat
+     5341 ataagaagtg tgaaaaacag ccaagggtat tagtttaatc cagaattcca tttgggtcta
+     5401 taaagacata ttaaagacct attctctttg tttccagcac tgtacctaag aaaataaact
+     5461 gaataaagta ctcagtctct cacaaaaact agagggacaa gacttggttc atgaacattt
+     5521 tatatatata gtctagaaaa acaggccaac ttcacagcca ggaagccaca aaattaaatc
+     5581 tcattttcag ctctaaggtg aggaaaatta cgttttagtt tagccttgag gggccaaagg
+     5641 ttgccatttg aagtatacca cccagcactg gcctcccttt gctgtgtaga aagggccttg
+     5701 cagtttcagt tttccttggt tctgagactt taaacttttg cagtaaatac gtagataaaa
+     5761 gttgctttga aaagaaactc agggagcaag gaaggaggaa gactcttccc catgaggctg
+     5821 aattgggcct aagaatggat ccagggttgg gctgttatgg ggatgcccga ggaaagcttc
+     5881 tagaaggact tggagttctg tagctggagc agaagatgtt gatgatactg ctgggtactg
+     5941 ttcctctttt ccctcacatc ttcaccacaa tgtgcttttc tccacctttc catttctagg
+     6001 ttaaaatctg gtttcagaac cgcagagcaa aggagaggaa aatcaacaag aagaagttgc
+     6061 agcagcaaca gcagcagcag ccaccacagc cgcctccgcc gccaccacag cctccccagc
+     6121 ctcagccagg tcctctgaga agtgtcccag agcccttgag tccggtgtct tccctgcaag
+     6181 cctcagtgcc tggctctgtc cctggggttc tggggccaac tgggggggtg ctaaacccca
+     6241 ccgtcaccca gtgacccacc gggttctgca gcggcagagc aattccaggc tgagccatga
+     6301 ggagcgtgga ctctgctaga ctcctcagga gagacccctc ccctcccacc cacagccata
+     6361 gacctacaga cctggctctc agaggaaaaa tgggagccag gagtaagaca agtgggattt
+     6421 ggggcctcaa gaaatatact ctcccagatt tttacttttt cccatctggc tttttctgcc
+     6481 actgaggaga cagaaagcct ccgctgggct tcattccgga ctggcagaag cattgcctgg
+     6541 actgaccaca ccaaccaggc cttcatcctc ctccccagct cttctcttcc tagatctgca
+     6601 ggctgcacct ctggctagag ccgaggggag agagggactc aagggaaagg caagcttgag
+     6661 gccaagatgg ctgctgcctg ctcatggccc tcggaggtcc agctgggcct cctgcctccg
+     6721 ggcaggcaag gtttacactg cggaagccaa aggcagctaa gatagaaagc tggactgacc
+     6781 aaagactgca gaacccccag gtggcctgcg tcttttttct cttcccttcc cagaccagga
+     6841 aaggcttggc tggtgtatgc acagggtgtg gtatgagggg gtggttattg gactccaggc
+     6901 ctgaccaggg ggcccgaaca gggacttgtt tagagagcct gtcaccagag cttctctggg
+     6961 ctgaatgtat gtcagtgcta taaatgccag agccaacctg gacttcctgt cattttcaca
+     7021 atcttggggc tgatgaagaa gggggtgggg ggagtttgtg ttgttgttgc tgctgtttgg
+     7081 gttgttggtc tgtgtaacat ccaagccaga gtttttaaag ccttctggat ccatgggggg
+     7141 agaagtgata tggtgaaggg aagtggggag tatttgaaca cagttgaatt ttttctaaaa
+     7201 agaaaaagag ataaatgagc tttccagatt tcagattctg tatttatctt cagattttgt
+     7261 ctgcaactat tttttatttt ttaaagaaat gaaatatctt ctctgcttgc aagctgattt
+     7321 ggaaaattca gagagggagt ggagattatc tggacagcct cattttaccc cagagcatca
+     7381 gaagcctgaa agagcaggtt ctgagacctt ccctgccccc aagcctgagc ccagccttgg
+     7441 aatgcgtggc tctcctgggg gtgcctttgg gcaaaatgca catctgaatg gccaggtgct
+     7501 tcccagcagt cagaaattat ggggggtggg ggtgagaggg ccccctcata gcatctcacc
+     7561 aaatccacat ggaggctttt tgcaaacagc aggcagttcc cttctgcagt gactccctcc
+     7621 taaggacgcc ccacaaccca gctagttaaa cgtgagcatt aaattttttt taaaaaaaat
+     7681 ccccctagtt tcccaagaca gcatttccat gaatttagtc ttctgtaaat cactgggcat
+     7741 ttccgtgagc cctttctgcc tccactctct tctctgtctt tgcagtttcc ttatccccga
+     7801 ccgcgccccc ccttccaacc caatcacccc acaaacaaga tttctagacc cagtataaaa
+     7861 tgatcctttt agtgacagtt tcttgttatc tggccgatcc actggggacc gggctgcagc
+     7921 ctttaaaatt tttgatcctg gaggccgccg agctgaactt tccggcagga cccgggcgag
+     7981 gggggcttag cccttcgttt cgatcttccc accaacatcc gagagcctaa tcagcgcgcc
+     8041 cacggaggcg ccttaagggc agttggggaa gatgagcaga gccgggaaac agcaagaggt
+     8101 atagaccctc tgcagcacct ctccaattcc gcggcccttc cgggtggcgt atacagctcc
+     8161 aggattggga aaggggctcc ggtggcccgg cccgcgggcg cctggcctcg aagccagagg
+     8221 gaggagtgcg gggcgtgggg tcggggggtg ccgggcagag gaggaagccg tgtccgggtc
+     8281 cgctgggcga ggggtcctgg gtcaggggtc ctgggtcagg gccggtctga gccccggtgc
+     8341 cccgcaggtc tccccgcgcc ccggccgcgc ccacaggccc gccccctagc cgccggggtt
+     8401 gctatgcgtt gccgtgaaac gcctgtcaat aaaccctgtt tggacagtgg a
+//
+
